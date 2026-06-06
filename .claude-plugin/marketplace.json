@@ -10,15 +10,8 @@
     {
       "name": "voice",
       "description": "Voice channel for Claude Code. Bridges a web-based PTT interface to Claude Code's channels system using the same protocol as the Telegram plugin.",
-      "author": {
-        "name": "Jase Clamp"
-      },
       "category": "communication",
-      "source": {
-        "source": "local",
-        "path": "external_plugins/voice"
-      },
-      "homepage": "https://github.com/jaseclamp/tars-plugins"
+      "source": "./external_plugins/voice"
     }
   ]
 }
